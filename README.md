@@ -4,7 +4,7 @@ now writing...
 
 ## 経歴
 
-### Link and Motivation（2022.09 - ）
+### Link and Motivation Inc.（2022.09 - ）
 
 - 役割
   - Backend Engineer (Member and Lead)
