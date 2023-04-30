@@ -45,9 +45,16 @@ My graduation research theme is Category theory.
 
 - Perl/Vue.js/Haskell/Kotlin
 
+## 資格
+
+- AWS Certified Cloud Practitioner（2021年春）
+- 応用情報技術者試験（2018年春）
+- 基本情報技術者試験（2017年秋）
+- ITパスポート試験（2017年夏）
+
 ## アウトプット
 
-- 書いたもの
+- LMテックブログ
   - [1週間の9割以上をペアプロしてみて、初めて気づいたこと](https://link-and-motivation.hatenablog.com/entry/2023/03/15/085237)
 
 ## SNS
