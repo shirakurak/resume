@@ -58,3 +58,4 @@ My graduation research theme is Category theory.
   - [1週間の9割以上をペアプロしてみて、初めて気づいたこと](https://link-and-motivation.hatenablog.com/entry/2023/03/15/085237)
 - [Twitter](https://twitter.com/fushirakura)
 
+![](https://www.codewars.com/users/shirakurak/badges/small)
