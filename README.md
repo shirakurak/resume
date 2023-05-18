@@ -19,9 +19,8 @@ now writing...（だいぶ書き途中）
 - Spring Framework
 - PostgreSQL
   
-2. 企業間連携基盤の構築
+2. ブロックチェーンを利用した企業間情報連携基盤の構築
 
-- ブロックチェーン
 - Spring boot
 
 3. RPAの機能開発
@@ -37,8 +36,12 @@ now writing...（だいぶ書き途中）
 
 ## その他（業務で使用したが経験は少ない/業務外の趣味や勉強会）
 
-- Perl/Vue.js/Haskell/Kotlin/Azure
-
+- Perl: サーバのバックアップデータを世代別に管理するツール（古い世代を固めて別サーバに転送する）
+- Azure: WindowsServerの構築/OCR周り
+- Python: SQLiteとともにAWS Lambdaに載せ、API Gateway経由でデータを取得する
+- Vue.js
+- Haskell 
+- Kotlin 
 
 ## 学歴
 
