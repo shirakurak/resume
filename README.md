@@ -55,7 +55,7 @@ My graduation research theme is Category theory.
 
 ## Blog/SNS
 
-- [vocabulary building](https://ken1shirakura.hateblo.jp/)
+- [yohaku](https://ken1shirakura.hateblo.jp/)
 - LMテックブログ
   - [1週間の9割以上をペアプロしてみて、初めて気づいたこと](https://link-and-motivation.hatenablog.com/entry/2023/03/15/085237)
 - [Zenn](https://zenn.dev/fushirakura)
