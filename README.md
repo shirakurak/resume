@@ -25,6 +25,11 @@ now writing... :)
 
 ## その他
 
+### Articles
+
+- [1週間の9割以上をペアプロしてみて、初めて気づいたこと](https://link-and-motivation.hatenablog.com/entry/2023/03/15/085237)
+- [Kaigi on Rails 2023 に参加しました](https://link-and-motivation.hatenablog.com/entry/kaigionrails2023)
+
 ### 資格
 
 - AWS Certified Cloud Practitioner（2021年春）
