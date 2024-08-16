@@ -4,11 +4,11 @@ now writing... :)
 
 ## 経歴
 
-### Link and Motivation Inc.（2022.09 - ）
+### Link and Motivation Inc. （2022.09 - ）
 
 バックエンドエンジニアとして、主に Ruby on Rails + MySQL を用いた機能開発および性能改善
 
-### SIS（2018.04 - 2022.08）
+### Science Information Systems Co.,Ltd. （2018.04 - 2022.08）
 
 アプリケーションエンジニアとして、以下ドメインの機能開発および保守
 
@@ -27,10 +27,12 @@ now writing... :)
 
 ### Articles
 
-- [1週間の9割以上をペアプロしてみて、初めて気づいたこと](https://link-and-motivation.hatenablog.com/entry/2023/03/15/085237)
-- [Kaigi on Rails 2023 に参加しました](https://link-and-motivation.hatenablog.com/entry/kaigionrails2023)
-- [技術書ペラワングランプリを開催しました](https://link-and-motivation.hatenablog.com/entry/2024/04/25/170955)
-- [ActiveRecordのコードリーディング 〜Railsのマイグレーションについて仕組みを理解してみる〜](https://link-and-motivation.hatenablog.com/entry/2024/05/27/204358)（共同執筆）
+- テックブログ
+  - [1週間の9割以上をペアプロしてみて、初めて気づいたこと](https://link-and-motivation.hatenablog.com/entry/2023/03/15/085237)
+  - [Kaigi on Rails 2023 に参加しました](https://link-and-motivation.hatenablog.com/entry/kaigionrails2023)
+  - [技術書ペラワングランプリを開催しました](https://link-and-motivation.hatenablog.com/entry/2024/04/25/170955)
+  - [ActiveRecordのコードリーディング 〜Railsのマイグレーションについて仕組みを理解してみる〜](https://link-and-motivation.hatenablog.com/entry/2024/05/27/204358)（共同執筆）
+- [Qiita - 投稿した記事一覧](https://qiita.com/shirakurak)
 
 ### 資格
 
