@@ -6,16 +6,16 @@ now writing... :)
 
 ### Link and Motivation Inc.（2022.09 - ）
 
-バックエンドエンジニアとして、Ruby on Rails を用いた機能開発および性能改善
+バックエンドエンジニアとして、主に Ruby on Rails + MySQL を用いた機能開発および性能改善
 
 ### SIS（2018.04 - 2022.08）
 
-アプリケーションエンジニアとして、以下のドメインの機能開発と保守
+アプリケーションエンジニアとして、以下ドメインの機能開発および保守
 
 1. 仮想PBXサービスの開発
 2. ブロックチェーンを利用した企業間情報連携基盤の構築
 3. RPAのカスタマイズ
-4. ファイル検索に関する研究開発
+4. ファイルサーバ上の検索に関する研究開発
 
 メインは、Java(Spring Framework / Spring Boot) と JavaScript
 
@@ -29,6 +29,8 @@ now writing... :)
 
 - [1週間の9割以上をペアプロしてみて、初めて気づいたこと](https://link-and-motivation.hatenablog.com/entry/2023/03/15/085237)
 - [Kaigi on Rails 2023 に参加しました](https://link-and-motivation.hatenablog.com/entry/kaigionrails2023)
+- [技術書ペラワングランプリを開催しました](https://link-and-motivation.hatenablog.com/entry/2024/04/25/170955)
+- [ActiveRecordのコードリーディング 〜Railsのマイグレーションについて仕組みを理解してみる〜](https://link-and-motivation.hatenablog.com/entry/2024/05/27/204358)（共同執筆）
 
 ### 資格
 
