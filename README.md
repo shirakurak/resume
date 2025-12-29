@@ -36,6 +36,7 @@ now writing... :)
 
 ### 資格
 
+- Python 3 エンジニア認定基礎試験（2025夏）
 - AWS Certified Cloud Practitioner（2021年春）
 - 応用情報技術者試験（2018年春）
 - 基本情報技術者試験（2017年秋）
